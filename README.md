@@ -19,7 +19,7 @@ The StudentFlow section links to the live application and GitHub repository. Eig
 - Education and academic results are based on the resume supplied by Madhurima.
 - StudentFlow is the featured project; the BioBeat AI entry from the resume has intentionally been excluded because it is not a project to showcase.
 - The contact section uses the supplied Gmail address. A personal phone number is intentionally not published.
-- Five certificates/courses and the listed interests are included based on the supplied resume and conversation details.
+- Four selected certificates/courses and the listed interests are included based on the supplied resume and conversation details.
 
 ## Before publishing
 
